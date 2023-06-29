@@ -20,5 +20,5 @@ We are going to use different technologies such as Python, Amazon Web Services (
 
 
 ## Dataset Used
-https://github.com/VyoumK105/Stock-Market-Analysis-Pipeline/blob/main/indexProcessed.csv
+https://github.com/VyoumK105/Stock-Market-Analysis-Pipeline/indexProcessed.csv
 
