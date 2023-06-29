@@ -17,8 +17,3 @@ We are going to use different technologies such as Python, Amazon Web Services (
 4. Glue Catalog
 5. EC2
 - Apache Kafka
-
-
-## Dataset Used
-indexProcessed.csv
-
